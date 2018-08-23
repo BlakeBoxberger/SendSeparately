@@ -1,0 +1,9 @@
+Package: com.neinzedd9.sendseparately
+Name: Send Separately
+Depends: mobilesubstrate
+Version: 0.0.1~beta
+Architecture: iphoneos-arm
+Description: Send messages to a group of people separately.
+Maintainer: NeinZedd9
+Author: NeinZedd9
+Section: Tweaks
